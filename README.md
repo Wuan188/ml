@@ -1,3 +1,3 @@
 # ML
-##machine learning lab code
-###lab-1: 
+## machine learning lab code
+### lab-1: 
